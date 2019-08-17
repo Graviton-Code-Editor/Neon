@@ -1,0 +1,32 @@
+{
+  "name": "Neon",
+  "description":"A neon theme.",
+  "author": "Marc Espín Sanz",
+  "gitRepositoryURL": "",
+  "version": "0.0.1",
+  "type":"custom_theme",
+  "highlight" : "neon",
+  "colors": {
+    "primaryColor": "#262626",
+    "secondaryColor": "#18171A",
+    "accentColor":"#FF0048",
+    "accentLightColor":"#FE3D78",
+    "accentDarkColor":"#C8002F",
+    "editor-background-color": "#18171A",
+    "white-black": "white",
+    "black-white": "white",
+    "widget-color": "#3B3B3B",
+    "buttons-roundness":"4px",
+    "dropmenu-background-color": "#2E2E2E",
+    "dropmenu-span-color": "#818181",
+    "titleBar-icons-color":"white",
+    "window-radius":"8px",
+    "window-border-color":"#2E2E2E",
+    "notifications-background-color":"#474747",
+    "notifications-window-radius":"5px",
+    "shadows":"rgba(0,0,0,0.30)",
+    "scalation":"0.98",
+    "scroll-color":"rgba(255,255,255,0.2)",
+    "scroll-color-hover":"rgba(255,255,255,0.5)"
+  }
+}
