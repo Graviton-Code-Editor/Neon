@@ -45,7 +45,7 @@
 .cm-s-neon span.cm-variable-3, .cm-s-neon span.cm-type { color: #ffb86c; }
 
 .cm-s-neon .CodeMirror-activeline-background { background: rgba(255,255,255,0.1); }
-.cm-s-default .CodeMirror-matchingbracket { outline:1px solid rgb(241, 187, 37) !important; color: inherit !important; }
+.cm-s-neon .CodeMirror-matchingbracket { outline:1px solid rgb(241, 187, 37) !important; color: inherit !important; }
 
 .highlight {
   color: orange;
